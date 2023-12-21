@@ -1,6 +1,7 @@
 sound_data/
 summary_data/
 transcript_data/
+Research/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
